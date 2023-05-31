@@ -6,7 +6,7 @@ import wordsToNumbers from 'words-to-numbers';
 // import { Typography } from '@material-ui/core';
 
 
-const alanKey='93058fa709c73c88eccac4489412b5a02e956eca572e1d8b807a3e2338fdd0dc/stage';
+const alanKey='YOUR_OWN_ALAN_KEY';
 const App = () => {
   const classes=useStyles();
   const [newsArticles,setNewsArticles]=useState([]);
